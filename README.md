@@ -1,2 +1,2 @@
 # Amazon-Project
-This is an Amazon Home Page Project based on HTML and CSS.
+This amazon clone project using technologies is HTML and CSS.
